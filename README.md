@@ -38,7 +38,6 @@ print(U)
 ```
 (ii) To find the LU Decomposition of a matrix
 ```
-
 #Program to find the LU Decomposition of a matrix.
 #Developed by: Jai Surya
 #RegisterNumber: 23002572 
